@@ -1,10 +1,10 @@
 # 💫Sobre mim:
 Olá, devs!!
 Me chamo Bruna, sou de Primavera/Rosana - SP. <br>
-👩‍🎓Sou formada em Serviço Social (2014-2017), pela Faculdade de Presidente Prudente. <br>
-Sempre gostei muito dessa parte de tecnologia e cada dia fui me interessando cada vez mais, através das redes sociais e vídeos fui pegando mais gosto pela área.<br>
-👩‍💻Então, em 2019 através de muitas pesquisas descobri que gostaria de me tornar uma programadora.<br>
-Estudei para Enem, fiz a prova e passei  em Tecnologia em análise e desenvolvimento de sistemas no Instituto Federal do Mato Grosso do Sul - Nova Andradina.
+👩‍🎓  Sou formada em Serviço Social (2014-2017), pela Faculdade de Presidente Prudente. <br>
+Sempre gostei muito dessa parte de tecnologia e fui interessando cada vez mais, através das redes sociais e vídeos fui pegando mais gosto pela área.<br>
+👩‍💻Então, em 2019 através de muitas pesquisas, descobri que gostaria de me tornar uma programadora.<br>
+Estudei para Enem, fiz a prova e passei em Tecnologia em análise e desenvolvimento de sistemas no Instituto Federal do Mato Grosso do Sul - Nova Andradina.
 Iniciei o curso em 2020 e cada dia mais fui tendo certeza do que eu realmente quero. 
 Hoje estou no último ano do curso, já realizei alguns projetos e estou praticando cada dia mais.
 
