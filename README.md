@@ -6,7 +6,7 @@ Sempre gostei muito dessa parte de tecnologia e fui interessando cada vez mais, 
 👩‍💻Então, em 2019 através de muitas pesquisas, descobri que gostaria de me tornar uma programadora.<br>
 Estudei para Enem, fiz a prova e passei em Tecnologia em análise e desenvolvimento de sistemas no Instituto Federal do Mato Grosso do Sul - Nova Andradina.
 Iniciei o curso em 2020 e cada dia mais fui tendo certeza do que eu realmente quero. 
-Estou no último ano do curso, já realizei alguns projetos e estou praticando cada dia mais.
+E hoje sou formada em Análise e Desenvolvimento de Sistemas.
 
 ![](https://tenor.com/view/cat-computer-typing-busy-gif-15481689.gif)
 
