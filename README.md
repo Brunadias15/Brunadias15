@@ -1,12 +1,11 @@
 # 💫Sobre mim:
 Olá, devs!!
 Me chamo Bruna, sou de Primavera/Rosana - SP. <br>
-👩‍🎓  Sou formada em Serviço Social (2014-2017), pela Faculdade de Presidente Prudente. <br>
-Sempre gostei muito dessa parte de tecnologia e fui interessando cada vez mais, através das redes sociais e vídeos fui pegando mais gosto pela área.<br>
-👩‍💻Então, em 2019 através de muitas pesquisas, descobri que gostaria de me tornar uma programadora.<br>
-Estudei para Enem, fiz a prova e passei em Tecnologia em análise e desenvolvimento de sistemas no Instituto Federal do Mato Grosso do Sul - Nova Andradina.
-Iniciei o curso em 2020 e cada dia mais fui tendo certeza do que eu realmente quero. 
-E hoje sou formada em Análise e Desenvolvimento de Sistemas.
+👩‍🎓  Sou formada em Serviço Social e estagiei por 2 anos na APAE - Presidente Prudente, além de ter trabalhado na APAE - Rosana-SP. Durante esse período, desenvolvi habilidades essenciais em atendimento e suporte social, que me proporcionaram uma base sólida para entender e ajudar pessoas.
+Com uma paixão por tecnologia, decidi expandir meus horizontes e me formei em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Mato Grosso do Sul (2020-2023). Durante a faculdade, participei de um projeto de extensão na área de Energias Renováveis - Fotovoltaica e atuei como tutora em um projeto de ensino, auxiliando meus colegas durante a pandemia.
+Concluí o curso de Análise de Dados (Vem Ser Tech) pela ADA em parceria com iFood (2023-2024), onde adquiri experiências valiosas em análise e gestão de dados, gestão de projetos, apoio às estratégias e objetivos de negócios, pesquisa de mercado, relatórios, dashboards e análises de resultados.
+
+Atualmente, estou focando em Análise de Dados, utilizando tecnologias como Python, Power BI e SQL. Minha formação em Serviço Social complementa minha carreira em TI, permitindo-me abordar problemas de forma holística e oferecer soluções inovadoras que consideram tanto aspectos técnicos quanto humanos. <br>
 
 ![](https://tenor.com/view/cat-computer-typing-busy-gif-15481689.gif)
 
